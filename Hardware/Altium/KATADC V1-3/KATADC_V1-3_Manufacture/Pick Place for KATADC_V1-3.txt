@@ -1,0 +1,188 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C10        0603                  1657mil       3013mil       1657mil       3013mil       1657mil       2982mil  B         90.00 100nF          
+C11        0603               2886.61mil   1089.282mil    2886.61mil   1089.282mil    2886.61mil   1058.282mil  B         90.00 100nF          
+C111       CAPC1005X55N          3551mil       1862mil       3551mil       1862mil       3551mil   1879.716mil  B        270.00 Capacitor 0402 SMD
+C112       CAPC1005X55N          3550mil       1225mil       3550mil       1225mil       3550mil   1207.284mil  B         90.00 Capacitor 0402 SMD
+C113       CAPC1005X55N          2968mil       1476mil       2968mil       1476mil   2950.284mil       1476mil  B        360.00 Capacitor 0402 SMD
+C114       CAPC1005X55N          2968mil       1712mil       2968mil       1712mil   2950.284mil       1712mil  B        360.00 Capacitor 0402 SMD
+C115       CAPC1005X55N          2968mil       1771mil       2968mil       1771mil   2950.284mil       1771mil  B        360.00 Capacitor 0402 SMD
+C28        CAPC1005X55N          3375mil       3240mil       3375mil       3240mil   3392.716mil       3240mil  B        180.00 Capacitor 0402 SMD
+C29        CAPC1005X55N          2910mil       2175mil       2910mil       2175mil       2910mil   2157.284mil  B         90.00 Capacitor 0402 SMD
+C30        CAPC1005X55N          3375mil       3060mil       3375mil       3060mil   3392.716mil       3060mil  B        180.00 Capacitor 0402 SMD
+C31        CAPC1005X55N          1155mil        250mil       1155mil        250mil       1155mil    267.716mil  B        270.00 Capacitor 0402 SMD
+C34        CAPC1005X55N           675mil       2125mil        675mil       2125mil        675mil   2142.716mil  B        270.00 Capacitor 0402 SMD
+C35        CAPC1005X55N           675mil        640mil        675mil        640mil        675mil    657.716mil  B        270.00 Capacitor 0402 SMD
+C36        CAPC1005X55N          3635mil       3150mil       3635mil       3150mil   3617.284mil       3150mil  B        360.00 100nF          
+C74        CAPC1005X55N          2968mil       1318mil       2968mil       1318mil   2950.284mil       1318mil  B        360.00 Capacitor 0402 SMD
+C76        CAPC1005X55N          2905mil       1965mil       2905mil       1965mil   2922.716mil       1965mil  B        180.00 Capacitor 0402 SMD
+C78        CAPC1005X55N          2968mil       1378mil       2968mil       1378mil   2950.284mil       1378mil  B        360.00 Capacitor 0402 SMD
+C83        CAPC1005X55N      4064.392mil   2320.361mil   4064.392mil   2320.361mil   4082.109mil   2320.361mil  B        180.00 Capacitor 0402 SMD
+C84        CAPC1005X55N          2980mil       1225mil       2980mil       1225mil       2980mil   1207.284mil  B         90.00 *              
+C85        CAPC1005X55N          2968mil       1535mil       2968mil       1535mil   2950.284mil       1535mil  B        360.00 Capacitor 0402 SMD
+C86        CAPC1005X55N          3118mil       1225mil       3118mil       1225mil       3118mil   1207.284mil  B         90.00 Capacitor 0402 SMD
+C87        CAPC1005X55N          3334mil       1225mil       3334mil       1225mil       3334mil   1207.284mil  B         90.00 Capacitor 0402 SMD
+C88        CAPC1005X55N          3602mil       1397mil       3602mil       1397mil   3619.716mil       1397mil  B        180.00 Capacitor 0402 SMD
+C89        CAPC1005X55N       3118.39mil       1865mil    3118.39mil       1865mil    3118.39mil   1882.716mil  B        270.00 Capacitor 0402 SMD
+C9         0603              2777.297mil   1945.897mil   2777.297mil   1945.897mil   2777.297mil   1976.897mil  B        270.00 100nF          
+C90        CAPC1005X55N          3602mil    1692.64mil       3602mil    1692.64mil   3619.716mil    1692.64mil  B        180.00 Capacitor 0402 SMD
+C91        0603                  3289mil       1712mil       3289mil       1712mil       3258mil       1712mil  B        360.00 *              
+C92        CAPC1005X55N          3335mil       1865mil       3335mil       1865mil       3335mil   1882.716mil  B        270.00 Capacitor 0402 SMD
+C93        0603                  3455mil       1550mil       3455mil       1550mil       3455mil       1519mil  B         90.00 *              
+C96        CAPC1005X55N          2968mil       1614mil       2968mil       1614mil   2950.284mil       1614mil  B        360.00 Capacitor 0402 SMD
+C97        CAPC1005X55N          2767mil       1555mil       2767mil       1555mil   2784.716mil       1555mil  B        180.00 Capacitor 0402 SMD
+C98        CAPC1005X55N          2968mil       1831mil       2968mil       1831mil   2950.284mil       1831mil  B        360.00 Capacitor 0402 SMD
+R19        0603                   550mil       2145mil        550mil       2145mil        519mil       2145mil  B        360.00 10k            
+R20        0603                   550mil        675mil        550mil        675mil        519mil        675mil  B        360.00 10k            
+R4         RESC1005X40N          2814mil       1200mil       2814mil       1200mil       2814mil   1182.284mil  B         90.00 DNP            
+R41        0603                  2995mil       2580mil       2995mil       2580mil       3026mil       2580mil  B        180.00 2K4            
+R43        0603                   960mil       3035mil        960mil       3035mil        960mil       3004mil  B         90.00 1K2            
+R44        0603                  2455mil       3110mil       2455mil       3110mil       2455mil       3141mil  B        270.00 10K            
+R46        0603                  1920mil       2965mil       1920mil       2965mil       1920mil       2934mil  B         90.00 2K4            
+R5         RESC1005X40N          2952mil        769mil       2952mil        769mil       2952mil    751.284mil  B         90.00 0E             
+R6         RESC1005X40N          3040mil        766mil       3040mil        766mil       3040mil    748.284mil  B         90.00 DNP            
+U34        TI_TSSOP24             890mil        595mil        890mil        595mil      752.5mil        700mil  B        270.00 PCA9555PWR     
+U35        TI_TSSOP24             890mil       2075mil        890mil       2075mil      752.5mil       2180mil  B        270.00 PCA9555PWR     
+AT11       MINICIRCUITS_MMM168      642.5mil    2317.69mil        680mil    2361.19mil        680mil    2361.19mil  T          0.00 Value          
+AT12       QFN50P400X400X100-25USR        885mil     2323.4mil        885mil     2323.4mil    804.291mil   2372.613mil  T          0.00 HMC624LP4      
+AT21       MINICIRCUITS_MMM168      642.5mil     837.69mil        680mil     881.19mil        680mil     881.19mil  T          0.00 Value          
+AT22       QFN50P400X400X100-25USR        885mil      843.4mil        885mil      843.4mil    804.291mil    892.613mil  T          0.00 HMC624LP4      
+C1         CAPC1632X80USR         975mil       2600mil        975mil       2600mil        975mil   2568.504mil  T         90.00 Footprint ???  
+C100       CAPC1005X55N           390mil        980mil        390mil        980mil        390mil    962.284mil  T         90.00 Capacitor 0402 SMD
+C101       CAPC1632X80USR        4220mil        420mil       4220mil        420mil       4220mil    451.496mil  T        270.00 *              
+C102       CAPC1632X80USR        4025mil        420mil       4025mil        420mil       4025mil    451.496mil  T        270.00 *              
+C103       CAPC1632X80USR        4030mil       2965mil       4030mil       2965mil       4030mil   2933.504mil  T         90.00 *              
+C104       CAPC1632X80USR        4225mil       2965mil       4225mil       2965mil       4225mil   2933.504mil  T         90.00 *              
+C105       CAPC3225X220N         2755mil       2955mil       2755mil       2955mil       2755mil   2899.882mil  T         90.00 Capacitor 1210 SMD
+C106       CAPC3225X220N         2290mil       3205mil       2290mil       3205mil   2234.882mil       3205mil  T          0.00 Capacitor 1210 SMD
+C107       CAPC3225X220N         1380mil       3225mil       1380mil       3225mil   1324.882mil       3225mil  T          0.00 Capacitor 1210 SMD
+C108       CAPC1632X80USR         975mil       1120mil        975mil       1120mil        975mil   1088.504mil  T         90.00 Footprint ???  
+C109       CAPC1005X55N           920mil     1027.6mil        920mil     1027.6mil    902.284mil     1027.6mil  T          0.00 Capacitor 0402 SMD
+C110       CAPC1005X55N           695mil       1120mil        695mil       1120mil        695mil   1102.284mil  T         90.00 Capacitor 0402 SMD
+C12        CAPC1005X55N           920mil    2507.28mil        920mil    2507.28mil    902.284mil    2507.28mil  T          0.00 Capacitor 0402 SMD
+C13        CAPC1005X55N           325mil       2310mil        325mil       2310mil    307.284mil       2310mil  T          0.00 Capacitor 0402 SMD
+C14        CAPC1005X55N           550mil       2385mil        550mil       2385mil    532.284mil       2385mil  T          0.00 Footprint ???  
+C15        CAPC1005X55N          1025mil    2274.19mil       1025mil    2274.19mil   1007.284mil    2274.19mil  T          0.00 Footprint ???  
+C16        0603                  1030mil       2395mil       1030mil       2395mil       1030mil       2426mil  T        270.00 Footprint ???  
+C17        0603                   780mil       2135mil        780mil       2135mil        780mil       2166mil  T        270.00 Footprint ???  
+C18        CAPC1005X55N           750mil    2274.19mil        750mil    2274.19mil    732.284mil    2274.19mil  T          0.00 *              
+C19        0603                  1120mil       2135mil       1120mil       2135mil       1120mil       2104mil  T         90.00 *              
+C2         CAPC1632X80USR      1506.5mil       1100mil     1506.5mil       1100mil   1475.004mil       1100mil  T          0.00 *              
+C20        0603                   950mil       2135mil        950mil       2135mil        950mil       2166mil  T        270.00 Footprint ???  
+C21        0603                   865mil       2135mil        865mil       2135mil        865mil       2166mil  T        270.00 Footprint ???  
+C22        0603                  1035mil       2135mil       1035mil       2135mil       1035mil       2166mil  T        270.00 Footprint ???  
+C23        CAPC1005X55N          1595mil    2274.19mil       1595mil    2274.19mil   1577.284mil    2274.19mil  T          0.00 Footprint ???  
+C24        CAPC1005X55N          2760mil       1665mil       2760mil       1665mil   2747.472mil   1677.527mil  T        315.00 Capacitor 0402 SMD
+C25        CAPC1005X55N          2790mil       1695mil       2790mil       1695mil   2777.472mil   1707.527mil  T        315.00 Capacitor 0402 SMD
+C26        CAPC1005X55N          1495mil       2435mil       1495mil       2435mil   1477.284mil       2435mil  T          0.00 *              
+C27        CAPC1005X55N          1495mil       2475mil       1495mil       2475mil   1477.284mil       2475mil  T          0.00 Footprint ???  
+C3         CAPC1632X80USR        3000mil       2980mil       3000mil       2980mil       3000mil   2948.504mil  T         90.00 Footprint ???  
+C32        CAPC1005X55N           695mil       2600mil        695mil       2600mil        695mil   2582.284mil  T         90.00 Capacitor 0402 SMD
+C33        CAPC1005X55N          3145mil        360mil       3145mil        360mil       3145mil    342.284mil  T         90.00 *              
+C37        CAPC1005X55N          2870mil        270mil       2870mil        270mil   2887.716mil        270mil  T        180.00 Capacitor 0402 SMD
+C38        CAPC1005X55N          4055mil       2580mil       4055mil       2580mil   4037.284mil       2580mil  T          0.00 10nF           
+C39        CAPC1632X80USR      1506.5mil       2580mil     1506.5mil       2580mil   1475.004mil       2580mil  T          0.00 Footprint ???  
+C4         3528                  3190mil       2780mil       3190mil       2780mil       3190mil     2712.5mil  T        270.00 33uF           
+C5         CAPC1632X80USR        1345mil       3035mil       1345mil       3035mil   1313.504mil       3035mil  T          0.00 Footprint ???  
+C55        CAPC1005X55N          2670mil    1525.63mil       2670mil    1525.63mil   2652.284mil    1525.63mil  T          0.00 Capacitor 0402 SMD
+C56        CAPC1005X55N          2670mil    1485.63mil       2670mil    1485.63mil   2652.284mil    1485.63mil  T          0.00 Capacitor 0402 SMD
+C58        CAPC1005X55N           330mil    1565.63mil        330mil    1565.63mil    312.284mil    1565.63mil  T          0.00 *              
+C6         3528                   840mil       3145mil        840mil       3145mil        840mil     3077.5mil  T        270.00 33uF           
+C60        0603                  1025mil        915mil       1025mil        915mil       1025mil        946mil  T        270.00 Footprint ???  
+C61        CAPC1005X55N           750mil     794.19mil        750mil     794.19mil    732.284mil     794.19mil  T          0.00 *              
+C62        CAPC1005X55N          2760mil       1420mil       2760mil       1420mil   2747.472mil   1407.473mil  T         45.00 Capacitor 0402 SMD
+C63        0603                  1120mil        655mil       1120mil        655mil       1120mil        624mil  T         90.00 *              
+C64        CAPC1005X55N          1025mil     794.19mil       1025mil     794.19mil   1007.284mil     794.19mil  T          0.00 *              
+C65        0603                   780mil        655mil        780mil        655mil        780mil        686mil  T        270.00 *              
+C66        0603                   865mil        655mil        865mil        655mil        865mil        686mil  T        270.00 *              
+C67        0603                   950mil        655mil        950mil        655mil        950mil        686mil  T        270.00 *              
+C68        0603                  1035mil        655mil       1035mil        655mil       1035mil        686mil  T        270.00 *              
+C69        CAPC1005X55N          2790mil       1390mil       2790mil       1390mil   2777.472mil   1377.473mil  T         45.00 Capacitor 0402 SMD
+C7         3528                  1780mil       3050mil       1780mil       3050mil       1780mil     2982.5mil  T        270.00 33uF           
+C70        CAPC1005X55N          1595mil     794.19mil       1595mil     794.19mil   1577.284mil     794.19mil  T          0.00 Footprint ???  
+C71        CAPC1005X55N       1492.72mil        950mil    1492.72mil        950mil   1475.004mil        950mil  T          0.00 *              
+C72        CAPC1005X55N       1492.72mil        995mil    1492.72mil        995mil   1475.004mil        995mil  T          0.00 *              
+C73        CAPC1005X55N           550mil        905mil        550mil        905mil    532.284mil        905mil  T          0.00 *              
+C75        CAPC1005X55N           325mil        830mil        325mil        830mil    307.284mil        830mil  T          0.00 *              
+C79        CAPC1005X55N           395mil       2870mil        395mil       2870mil    412.716mil       2870mil  T        180.00 Footprint ???  
+C8         CAPC1632X80USR        2325mil       2965mil       2325mil       2965mil   2293.504mil       2965mil  T          0.00 Footprint ???  
+C80        0603                  2835mil       2580mil       2835mil       2580mil       2866mil       2580mil  T        180.00 Footprint ???  
+C81        0603                   960mil       3200mil        960mil       3200mil        960mil       3169mil  T         90.00 Footprint ???  
+C82        0603                  1920mil       3125mil       1920mil       3125mil       1920mil       3094mil  T         90.00 *              
+C99        CAPC1005X55N           390mil       2460mil        390mil       2460mil        390mil   2442.284mil  T         90.00 Capacitor 0402 SMD
+J1         TYCO6367555       4687.992mil   1687.205mil       4875mil   2677.165mil       4875mil   2677.165mil  T         90.00 Z-DOK          
+J2         EDGE_LAUNCH_TH_SMA      115.5mil       2310mil         30mil       2310mil         30mil       2310mil  T          0.00 Value          
+J4         EDGE_LAUNCH_TH_SMA      115.5mil    1565.63mil         30mil    1565.63mil         30mil    1565.63mil  T          0.00 Value          
+J5         EDGE_LAUNCH_TH_SMA      115.5mil        830mil         30mil        830mil         30mil        830mil  T          0.00 Value          
+J6         EDGE_LAUNCH_TH_SMA      115.5mil    3129.06mil         30mil    3129.06mil         30mil    3129.06mil  T          0.00 Value          
+JP1        JP-100MIL             3905mil       3265mil       3905mil       3265mil       3855mil       3265mil  T         90.00 Jumper2W       
+JP2        JUMPER                 950mil       1795mil        950mil       1795mil    918.504mil       1795mil  T          0.00 Jumper2W       
+JP3        JUMPER                 950mil        310mil        950mil        310mil    918.504mil        310mil  T          0.00 Jumper2W       
+L1         INDM2520X160N         1475mil     2323.4mil       1475mil     2323.4mil       1475mil   2372.613mil  T        270.00 1200N          
+L2         INDM2520X160N         1475mil      843.4mil       1475mil      843.4mil       1475mil    892.613mil  T        270.00                
+L3         INDC1608X80USR        4290mil        525mil       4290mil        525mil   4321.496mil        525mil  T        180.00 TDK            
+L4         INDC1608X80USR        4105mil        525mil       4105mil        525mil   4136.496mil        525mil  T        180.00 TDK            
+L5         INDC1608X80USR        4110mil       2860mil       4110mil       2860mil   4078.504mil       2860mil  T          0.00 TDK            
+L6         INDC1608X80USR        4295mil       2860mil       4295mil       2860mil   4263.504mil       2860mil  T          0.00 TDK            
+L7         INDC1005X60N          1370mil     794.19mil       1370mil     794.19mil   1350.315mil     794.19mil  T          0.00                
+L8         INDC1005X60N          1370mil    2274.19mil       1370mil    2274.19mil   1350.315mil    2274.19mil  T          0.00                
+P1         TSM_5X1_SV            3505mil       2625mil       3655mil       2625mil       3705mil     2567.5mil  T          0.00 SAMTEC-TSM-105-01-TM-SV-5W-HDR
+R10        0603                  3200mil       3280mil       3200mil       3280mil       3169mil       3280mil  T          0.00 1K             
+R11        0603                  3200mil       3190mil       3200mil       3190mil       3169mil       3190mil  T          0.00 1K             
+R12        0603                  2845mil       2350mil       2845mil       2350mil       2845mil       2381mil  T        270.00 1K             
+R13        0603                  3200mil       3100mil       3200mil       3100mil       3169mil       3100mil  T          0.00 1K             
+R14        0603                  3200mil       3010mil       3200mil       3010mil       3169mil       3010mil  T          0.00 1K             
+R15        0603                  4265mil       2555mil       4265mil       2555mil       4265mil       2586mil  T        270.00 220R           
+R16        0603                  4265mil       2390mil       4265mil       2390mil       4265mil       2359mil  T         90.00 220R           
+R17        RESC1005X40N          3040mil        310mil       3040mil        310mil   3022.284mil        310mil  T          0.00 *              
+R18        RESC1005X40N          3040mil        410mil       3040mil        410mil   3022.284mil        410mil  T          0.00 50R            
+R2         RESC1005X40N          2730mil       1725mil       2730mil       1725mil   2717.472mil   1712.473mil  T         45.00 *              
+R21        RESC1005X40N          2730mil       1360mil       2730mil       1360mil   2717.472mil   1372.527mil  T        315.00 100R           
+R25        0603                  3905mil       2555mil       3905mil       2555mil       3905mil       2524mil  T         90.00 470R           
+R26        0603              3846.528mil   2433.223mil   3846.528mil   2433.223mil   3877.528mil   2433.223mil  T        180.00 10K            
+R3         RESC1005X40N          2745mil       1215mil       2745mil       1215mil   2727.284mil       1215mil  T          0.00 3k3            
+R36        RESC1005X40N           405mil    1565.63mil        405mil    1565.63mil    387.284mil    1565.63mil  T          0.00 50R            
+R37        RESC1005X40N      2609.252mil   1507.874mil   2609.252mil   1507.874mil   2609.252mil   1525.591mil  T        270.00 100R           
+R40        0603                  2995mil       2580mil       2995mil       2580mil       3026mil       2580mil  T        180.00 3K3            
+R42        0603                   960mil       3035mil        960mil       3035mil        960mil       3004mil  T         90.00 3K3            
+R45        0603                  1920mil       2965mil       1920mil       2965mil       1920mil       2934mil  T         90.00 3K3            
+R47        RESC1005X40N           370mil    3129.06mil        370mil    3129.06mil    352.284mil    3129.06mil  T          0.00 *              
+R48        0603                  3065mil       2350mil       3065mil       2350mil       3065mil       2319mil  T         90.00 1K             
+R49        0603                  1150mil        120mil       1150mil        120mil       1119mil        120mil  T          0.00 1K             
+R50        0603                  3810mil       3075mil       3810mil       3075mil       3810mil       3044mil  T         90.00 *              
+R51        0603                  2887mil        755mil       2887mil        755mil       2887mil        724mil  T         90.00 1K             
+R52        0603                  2975mil       2350mil       2975mil       2350mil       2975mil       2381mil  T        270.00 1K             
+R7         RESC1005X40N      2778.701mil   1281.921mil   2778.701mil   1281.921mil   2778.701mil   1264.205mil  T         90.00 10k            
+R9         0603                  2887mil        910mil       2887mil        910mil       2887mil        879mil  T         90.00 1K             
+T1         PULSE_KAYAK           1810mil    2334.19mil       1725mil    2394.19mil       1725mil    2394.19mil  T        270.00 CX2156         
+T2         PULSE_KAYAK           1810mil     734.19mil       1725mil     794.19mil       1725mil     794.19mil  T        270.00 CX2156         
+T3         PULSE_KAYAK            600mil    1505.63mil        515mil    1565.63mil        515mil    1565.63mil  T        270.00 CX2156         
+U1         TI_SOT23-8            2885mil        385mil       2885mil        385mil    2924.37mil    346.614mil  T         90.00 TMP421AIDCNT   
+U10        SOT95P280X110-5USR2        795mil    2544.68mil        805mil    2554.68mil    743.819mil   2582.082mil  T          0.00 TPS7994DDCR    
+U17        SIRENZA_SOT89         1215mil    2334.19mil       1215mil    2354.19mil       1156mil    2274.19mil  T          0.00 SBB-2089Z      
+U18        SIRENZA_SOT89         1215mil     854.19mil       1215mil     874.19mil       1156mil     794.19mil  T          0.00 SBB-2089Z      
+U19        NS_VNX128A            3285mil       1545mil       3285mil       1545mil   2867.677mil   1850.118mil  T        270.00 ADC08D1520CIYB 
+U21        SOT95P280X145-6N       2910mil       2175mil       2910mil       2175mil   2872.598mil    2121.85mil  T         90.00 SN74LVC2G07DBVR
+U22        SOT95P280X145-6N       3375mil       3240mil       3375mil       3240mil    3428.15mil   3202.598mil  T        180.00 SN74LVC2G07DBVR
+U23        SOT95P280X145-6N       1155mil        245mil       1155mil        245mil    1101.85mil    282.402mil  T          0.00 SN74LVC2G07DBVR
+U24        SOT95P280X145-6N       3375mil       3060mil       3375mil       3060mil    3428.15mil   3022.598mil  T        180.00 SN74LVC2G07DBVR
+U28        SOP65P400X130-8USR       4055mil       2445mil       4055mil       2445mil   4129.803mil   2406.614mil  T        180.00 PCA9306        
+U29        SOT95P280X145-5N        390mil       3015mil        390mil       3015mil    352.598mil   2963.819mil  T         90.00 SN65LVDS1DBVR  
+U30        PSON95P300X300X90-7USR        440mil     2347.4mil        440mil     2347.4mil    388.819mil   2384.802mil  T          0.00 PE4246         
+U31        PSON95P300X300X90-7USR        440mil      867.4mil        440mil      867.4mil    388.819mil    904.802mil  T          0.00 PE4246         
+U36        SOT95P280X110-5USR        795mil       1065mil        805mil       1075mil    743.819mil   1102.402mil  T          0.00 TPS7994DDCR    
+U5         QFN65P500X500X100-21AN       2965mil       2780mil       2965mil       2780mil    3057.52mil   2728.819mil  T        180.00 TPS7440RGWT    
+U6         QFN65P500X500X100-21AN       1150mil       3075mil       1150mil       3075mil   1098.819mil    2982.48mil  T         90.00 TPS7440RGWT    
+U7         QFN65P500X500X100-21AN       2120mil       2995mil       2120mil       2995mil   2068.819mil    2902.48mil  T         90.00 TPS7440RGWT    
+U9         SOIC127P600X175-8N       3640mil       3150mil       3640mil       3150mil       3715mil   3256.299mil  T        270.00 AT24C02B       
+R24        0603               3685.54mil   2434.216mil    3685.54mil   2434.216mil    3716.54mil   2434.216mil  T        180.00 470R           
+F1         FiducialTop_Global    336.614mil     118.11mil    336.614mil     118.11mil    336.614mil     118.11mil  T          0.00 FIDUCIALTOP_GLOBAL
+F2         FiducialTop_Global    305.118mil   3218.504mil    305.118mil   3218.504mil    305.118mil   3218.504mil  T          0.00 FIDUCIALTOP_GLOBAL
+F3         FiducialTop_Global   3051.181mil   3238.189mil   3051.181mil   3238.189mil   3051.181mil   3238.189mil  T          0.00 FIDUCIALTOP_GLOBAL
+F6         FiducialBot_Global    129.921mil    141.732mil    129.921mil    141.732mil    129.921mil    141.732mil  T          0.00 FIDUCIALBOT_GLOBAL
+F7         FiducialBot_Global    3532.48mil    122.047mil    3532.48mil    122.047mil    3532.48mil    122.047mil  T          0.00 FIDUCIALBOT_GLOBAL
+F8         FiducialBot_Global    362.205mil   3283.465mil    362.205mil   3283.465mil    362.205mil   3283.465mil  T          0.00 FIDUCIALBOT_GLOBAL
+C116       CAPC1632X80USR    2450.787mil   3100.394mil   2450.787mil   3100.394mil   2419.291mil   3100.394mil  T          0.00 Footprint ???  
+LOGO1      MEERKATLOGO     -14511.299mil  -7148.898mil   2879.409mil      5.039mil -14511.299mil  -7148.898mil  T          0.00 MEERKATLOGO    
+C59        CAPC1632X80USR    2765.748mil    2736.22mil   2765.748mil    2736.22mil   2765.748mil   2767.717mil  T        270.00 Footprint ???  
+

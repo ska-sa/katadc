@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: KATADC_V1-3.PcbDoc   04/06/2010  14:32:16
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : KATADC_V1-3-Plated.TXT
+EIA File   : KATADC_V1-3.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.25mm (9.842mil)        Round          1096             2572.86 mm (101.29 Inch)
+T2        0.6mm (23.622mil)        Round          144              376.62 mm (14.83 Inch)
+T3        0.9mm (35.433mil)        Round          2                2.54 mm (0.10 Inch)
+T4        1.2mm (47.244mil)        Round          16               78.51 mm (3.09 Inch)
+T5        2.2mm (86.614mil)        Round          18               346.87 mm (13.66 Inch)
+T6        3.8mm (149.606mil)       Round          4                301.91 mm (11.89 Inch)
+---------------------------------------------------------------------------
+Totals                                            1280             3679.31 mm (144.85 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

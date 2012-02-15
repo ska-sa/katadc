@@ -1,0 +1,53 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~KATADC_V1-2.PrjPCB|ReportField=ProjectFullPath~C:\Documents and Settings\user\My Documents\KAT7\Development\SamplingModule\katADC\trunk\KATADC_4V2\Electronic\KATADC\Altium\KATADC_V1-2\KATADC_V1-2.PrjPCB|ReportField=Title~Bill of Materials For Project [KATADC_V1-2.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~184|ReportField=ReportTime~19:48:18|ReportField=ReportDate~30/03/2010|ReportField=ReportDateTime~30/03/2010 19:48:18|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=COMPANY_ADDRESS_1~17 Baker Street, Rosebank|ReportField=COMPANY_ADDRESS_2~Johannesburg|ReportField=COMPANY_ADDRESS_3~South Africa|ReportField=COMPANY_NAME1~Square Kilometer Array|ReportField=COMPANY_NAME2~MeerKAT|ReportField=COPYRIGHT_YEAR~2010|ReportField=GERBER FILENAME~KATADC_V1-2|ReportField=PCB_REVISION~1.2|ReportField=PCB_Title_Date~08-02-2010|ReportField=PCB_Title_Description~SKA ADC PCB|ReportField=PCB_Title_DocumentNumber~KATADC_V1-2|ReportField=PCB_Title_DrawnBy~EDA|ReportField=PCB_Title_Engineer~E.B.|ReportField=PCB_Title_Filename~KATADC_V1-2.PcbDoc|ReportField=PROJECT_Filename~KATADC_V1-2.PrjPCB|ReportField=PROJECT_TITLE~KATADC|ReportField=SCH_Title_Date~4-02-2010|ReportField=SCH_Title_DocumentNumber~KATADC_V1-2|ReportField=SCH_Title_DrawnBy~EDA|ReportField=SCH_Title_Engineer~E.B.|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~30/03/2010|ReportField=CurrentTime~19:48:16|ReportField=Date~DO NOT USE, RATHER USE PROJ OPTIONS|ReportField=DocumentFullPathAndName~C:\Documents and Settings\user\My Documents\KAT7\Development\SamplingModule\katADC\trunk\KATADC_4V2\Electronic\KATADC\Altium\KATADC_V1-2\ADC-TopSheet.SchDoc|ReportField=DocumentName~ADC-TopSheet.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~DO NOT USE, RATHER USE PROJ OPTIONS|ReportField=Engineer~DO NOT USE, RATHER USE PROJ OPTIONS|ReportField=ImagePath~DO NOT USE, RATHER USE PROJ OPTIONS|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~05/02/2010|ReportField=Organization~DO NOT USE, RATHER USE PROJ OPTIONS|ReportField=ProjectName~|ReportField=Revision~DO NOT USE, RATHER USE PROJ OPTIONS|ReportField=Rule~|ReportField=SCH_Sheet_Filename~<Filename.SchDoc>|ReportField=SheetNumber~1|ReportField=SheetTotal~12|ReportField=Time~DO NOT USE, RATHER USE PROJ OPTIONS|ReportField=Title~<SPECIFIC SHEET FUNCTION>|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~KATADC_V1-2.PrjPCB|ReportField=DataSourceFullPath~C:\Documents and Settings\user\My Documents\KAT7\Development\SamplingModule\katADC\trunk\KATADC_4V2\Electronic\KATADC\Altium\KATADC_V1-2\KATADC_V1-2.PrjPCB
+Value|Fixed Attenuator|AT11, AT21|MINICIRCUITS_MMM168|LAT-0+|2
+HMC624LP4|Broadband 6-bit IC Digital Attenuator|AT12, AT22|QFN50P400X400X100-25USR|HMC624LP4|2
+Footprint ???|CAP SMD 0603|C1, C3, C5, C8, C39, C59, C108, C116|CAPC1632X80USR|CAP-0603|8
+|CAP SMD 0603|C2, C101, C102, C103, C104|CAPC1632X80USR|CAP-0603|5
+33uF|CAPACITOR-POLARISED|C4, C6, C7|3528|CAPACITOR-POLARISED|3
+100nF|CAP SMD 0603|C9, C10, C11|0603|CAP-0603|3
+Capacitor 0402 SMD|Capacitor 0402 SMD|C12, C13, C24, C25, C28, C29, C30, C31, C32, C34, C35, C37, C55, C56, C62, C69, C74, C76, C78, C83, C85, C86, C87, C88, C89, C90, C92, C96, C97, C98, C99, C100, C109, C110, C111, C112, C113, C114, C115|CAPC1005X55N|cap0402|39
+Footprint ???|CAP SMD 0603|C14, C15, C23, C27, C70, C79|CAPC1005X55N|CAP-0603|6
+Footprint ???|CAP SMD 0603|C16, C17, C20, C21, C22, C60, C80, C81|0603|CAP-0603|8
+|CAP SMD 0603|C18, C26, C33, C58, C61, C64, C71, C72, C73, C75, C84|CAPC1005X55N|CAP-0603|11
+|CAP SMD 0603, RESISTOR SMD 0805|C19, C63, C65, C66, C67, C68, C82, C91, C93, R50|0603|CAP-0603, RES-0805|10
+100nF|CAP SMD 0603|C36|CAPC1005X55N|CAP-0603|1
+10nF|CAP SMD 0603|C38|CAPC1005X55N|CAP-0603|1
+Capacitor 1210 SMD|Capacitor 1210 SMD|C105, C106, C107|CAPC3225X220N|cap1210|3
+FIDUCIALTOP_GLOBAL||F1, F2, F3|FiducialTop_Global|FIDUCIALTOP_GLOBAL|3
+FIDUCIALBOT_GLOBAL||F6, F7, F8|FiducialBot_Global|FIDUCIALBOT_GLOBAL|3
+Z-DOK|Z-DOK|J1|TYCO6367555|ZDOK 6367555|1
+Value|High Frequency SMA End Lauch Connector|J2, J4, J5, J6|EDGE_LAUNCH_TH_SMA|142-0761-811|4
+Jumper2W|Jumper Wire|JP1|JP-100MIL|Jumper2W|1
+Jumper2W|Jumper Wire|JP2, JP3|JUMPER|Jumper2W|2
+1200N|CHOKE|L1|INDM2520X160N|CHOKE|1
+|CHOKE|L2|INDM2520X160N|CHOKE|1
+TDK|POWER LINE|L3, L4, L5, L6|INDC1608X80USR|MPZ16085221A|4
+|CHOKE|L7, L8|INDC1005X60N|CHOKE|2
+SAMTEC-TSM-105-01-TM-SV-5W-HDR|SAMTEC-TSM-105-01-TM-SV-5W-HDR|P1|TSM_5X1_SV|SAMTEC-TSM-105-01-TM-SV-5W-HDR|1
+|RESISTOR SMD 0805|R2, R17, R47|RESC1005X40N|RES-0805|3
+3k3|RESISTOR SMD 0805|R3|RESC1005X40N|RES-0805|1
+DNP|RESISTOR SMD 0805|R4, R6|RESC1005X40N|RES-0805|2
+0E|RESISTOR SMD 0805|R5|RESC1005X40N|RES-0805|1
+10k|RESISTOR SMD 0805|R7|RESC1005X40N|RES-0805|1
+1K|RESISTOR SMD 0805|R9, R10, R11, R12, R13, R14, R48, R49, R51, R52|0603|RES-0805|10
+220R|RESISTOR SMD 0805|R15, R16|0603|RES-0805|2
+50R|RESISTOR SMD 0805|R18, R36|RESC1005X40N|RES-0805|2
+10k|RESISTOR SMD 0805|R19, R20, R26, R44|0603|RES-0805|4
+100R|RESISTOR SMD 0805|R21, R37|RESC1005X40N|RES-0805|2
+470R|RESISTOR SMD 0805|R24, R25|0603|RES-0805|2
+3K3|RESISTOR SMD 0805|R40, R42, R45|0603|RES-0805|3
+2K4|RESISTOR SMD 0805|R41, R46|0603|RES-0805|2
+1K2|RESISTOR SMD 0805|R43|0603|RES-0805|1
+CX2156|TRANSFORMER WIDEBAND RF APPLICATION|T1, T2, T3|PULSE_KAYAK|CX2156|3
+TMP421AIDCNT|Remote and Local TempreatureSensor in SOT23-8|U1|TI_SOT23-8|TMP421AIDCNT|1
+TPS7440RGWT|3.0A Ultra-LDO with Programmable Soft-Start|U5, U6, U7|QFN65P500X500X100-21AN|TPS74401RGWT|3
+AT24C02B|Two wire Serial EEPROM 2K (256 x 8)|U9|SOIC127P600X175-8N|AT24C02B|1
+TPS7994DDCR|Low Quiescent Current, Ultra-Low Noise Dropout Linear Regulator|U10|SOT95P280X110-5USR2|TPS7994DDCR|1
+SBB-2089Z|High performance InaGaP HBT MMIC amplfier|U17, U18|SIRENZA_SOT89|SBB-2089Z|2
+ADC08D1520CIYB|Low Power, 8-Bit, Dual 1.5 GSPS or Single 3.0 GSPS A/D Converter|U19|NS_VNX128A|ADC08D1520CIYB|1
+SN74LVC2G07DBVR|Dual Buffer/Driver with open-drain output|U21, U22, U23, U24|SOT95P280X145-6N|SN74LVC2G07DBVR|4
+PCA9306|Dual Bidirectional I2C Bus and SMBus Voltage-Level Translator|U28|SOP65P400X130-8USR|PCA9306DCTR|1
+SN65LVDS1DBVR|High Speed Differential Line Driver/Receiver|U29|SOT95P280X145-5N|SN65LVDS1DBVR|1
+PE4246|Absorptive SPST UltraCMOS RF Switch|U30, U31|PSON95P300X300X90-7USR|PE4246|2
+PCA9555PWR|Remote 16-Bit I2C and SMBus  I/O expander|U34, U35|TI_TSSOP24|PCA9555PWR|2
+TPS7994DDCR|Low Quiescent Current, Ultra-Low Noise Dropout Linear Regulator|U36|SOT95P280X110-5USR|TPS7994DDCR|1

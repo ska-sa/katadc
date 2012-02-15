@@ -1,0 +1,38 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [KATADC_V1-3.PcbDoc]
+   Generated File[KATADC_V1-3.GTL]
+   Generated File[KATADC_V1-3.GP1]
+   Generated File[KATADC_V1-3.GP2]
+   Generated File[KATADC_V1-3.GP3]
+   Generated File[KATADC_V1-3.GP4]
+   Generated File[KATADC_V1-3.GBL]
+   Generated File[KATADC_V1-3.GTO]
+   Generated File[KATADC_V1-3.GTP]
+   Generated File[KATADC_V1-3.GTS]
+   Generated File[KATADC_V1-3.GBS]
+   Generated File[KATADC_V1-3.GBP]
+   Generated File[KATADC_V1-3.GBO]
+   Generated File[KATADC_V1-3.RUL]
+   Generated File[KATADC_V1-3.EXTREP]
+   Generated File[KATADC_V1-3.REP]
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [KATADC_V1-3.PcbDoc]
+   Generated File[KATADC_V1-3-Plated.TXT]
+   Generated File[KATADC_V1-3.DRL]
+   Generated File[KATADC_V1-3-BoardEdgeRout.TXT]
+   Generated File[KATADC_V1-3.LDP]
+   Generated File[KATADC_V1-3.DRR]
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [KATADC_V1-3.PcbDoc]
+   Generated File[Pick Place for KATADC_V1-3.txt]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 14:32:18 On 04/06/2010
